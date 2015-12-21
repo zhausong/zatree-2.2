@@ -36,4 +36,5 @@
 ###1.将调用外部API的方式改为内置API方式，解决卡死问题和速度缓慢问题   
 ###2.将默认24小时数据记录改为1个小时 
 ###3.将风格改为Zabbix内置样式 
+###4.删除文件zabbix_config.php  ZabbixApi.class.php ZabbixApiAbstract.class.php  
 
