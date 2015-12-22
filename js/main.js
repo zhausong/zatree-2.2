@@ -1061,8 +1061,7 @@ function changeHatStateUI(icon, divid) {
 }
 
 function change_hat_state(icon, divid) {
-	deselectAll();
-
+	//deselectAll();
 	var switchIcon = function() {
 		switchElementsClass(icon, 'arrowup', 'arrowdown');
 	};
