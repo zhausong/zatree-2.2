@@ -13,7 +13,7 @@
     // SCHEMA is relevant only for IBM_DB2 database
     $DB['SCHEMA'] = '';
 
-    $ZBX_SERVER = '10.0.1.112';
+    $ZBX_SERVER = '127.0.0.1';
     $ZBX_SERVER_PORT = '10051';
     $ZBX_SERVER_NAME = '';
 
